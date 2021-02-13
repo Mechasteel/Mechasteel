@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mechasteel
 - 👀 I’m interested in Computational Mechanics.    
-- 🌱 I’m currently learning FDTD moethod to solve wave propagation problems.
+- 🌱 I’m currently learning FDTD method to solve wave propagation problems.
 - 💞️ I’m looking to collaborate on help each other to coding Numerical solver for the academic researches. 
 - 📫 You can reach me from celikofurkan@gmail.com e-maill adress.
 
